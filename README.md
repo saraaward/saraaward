@@ -29,3 +29,5 @@ Four projects, each showing a different part of my practice.
 **AI practice:** generative workflows · agent orchestration · human review · eval design · regression testing
 
 The showcases distinguish deployed work, working prototypes, architecture foundations, and illustrative examples. Production source and client configuration remain private; public repositories provide selected code, system explanations, and evidence that can be reviewed without operational access.
+
+[Portfolio Development board](https://github.com/users/saraaward73/projects/2) — priorities, validation work, and upcoming improvements.
